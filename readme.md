@@ -5,6 +5,10 @@ Ideas for a second project started during Hackbright Fall 2020.
 ## Slack lynx plz  
 
 Slackbot that makes a digest of links that have been shared in a server (or channel?) since you last read.
+- Form considerations:
+  - Conversation with a linkbot? Email digest?
+- Context: if link is posted as part of a larger message, that probably comes with it
+- If the link is just to an image (.gif or .jpg file) hosted somewhere on the internet, what does it do with that? Do I want images? Probably yes. Slack rules about expanding media apply
 
 ## Meme-orex
 
